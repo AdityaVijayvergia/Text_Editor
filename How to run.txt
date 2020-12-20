@@ -1,0 +1,14 @@
+Running the program
+No external files are used. 
+
+RUN AS: python text_editor.py
+
+Inside class TextEditor, LINE_SIZE can be changed to see how lines are split or combined depending length
+
+Files:
+
+text_editor.py - main file
+objects.py - contains classes
+optimised_timing.py - used as performance measure
+naive_editor.py - basic text editor (given code)
+naive_editor_timing.py - performance measure for naive case
